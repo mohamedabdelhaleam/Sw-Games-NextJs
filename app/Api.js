@@ -1,0 +1,1 @@
+export const baseurl = "https://sw-games.net/api"
